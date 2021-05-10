@@ -8,6 +8,8 @@ It is the standalone python django web app with the features:
 
 -> Data is stored in the Redis
 
+![Capture](https://user-images.githubusercontent.com/46214838/117665474-7e8dee00-b1c0-11eb-9789-28f150dfcfb3.PNG)
+
 -> Renders a simple VueJS frontend
 
 -> Searching through the records is possible throgh the name field.
