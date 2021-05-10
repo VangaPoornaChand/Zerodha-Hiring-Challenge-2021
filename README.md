@@ -14,5 +14,4 @@ It is the standalone python django web app with the features:
 
 -> Can download the search results into CSV File
 
-#### You can watch the Video of output here:
-[![Watch the Video](https://img.youtube.com/vi/XA8W0qyueRs/maxresdefault.jpg)](https://youtu.be/XA8W0qyueRs)
+#### You can watch the Video of output here: https://youtu.be/XA8W0qyueRs
