@@ -12,6 +12,8 @@ It is the standalone python django web app with the features:
 
 -> Searching through the records is possible throgh the name field.
 
+![Searching Zerodha](https://user-images.githubusercontent.com/46214838/117665052-13dcb280-b1c0-11eb-9681-df810304c463.gif)
+
 -> Can download the search results into CSV File
 
 #### You can watch the Video of output here: https://youtu.be/XA8W0qyueRs
